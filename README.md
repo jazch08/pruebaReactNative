@@ -66,3 +66,8 @@
 - GET usuarios: https://jsonplaceholder.typicode.com/users
 
 ¡Buena suerte!
+
+
+## 🎥 Muestra de Funcionamiento
+A continuación, puedes ver el video del funcionamiento de la aplicación:
+[![Ver video de funcionamiento](https://img.youtube.com/vi/7ceD408m5Pc/hqdefault.jpg)](https://youtube.com/shorts/7ceD408m5Pc?feature=share)
